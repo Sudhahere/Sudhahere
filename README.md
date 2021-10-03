@@ -111,9 +111,8 @@
 <Br>
 <hr>
 <Br>
-<h2>Thank You 🤵, for reading till end, here is one of my favourite quotes: </h2>
+<h2>Thank You 🤵, for reading till end</h2>
   
-<img src="https://quotefancy.com/media/wallpaper/3840x2160/92067-Franz-Kafka-Quote-In-the-fight-between-you-and-the-world-back-the.jpg"/>
  Special Thanks to:  [Aryagm](https://github.com/Aryagm)
 
 
